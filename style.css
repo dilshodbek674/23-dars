@@ -1,0 +1,477 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.bosh {
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://assets.nicepagecdn.com/d2cc3eaa/2625193/images/river-flowing-through-forest-generative-al2-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bosh h1 {
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+    font-size: 60px;
+    padding-bottom: 50px;
+}
+
+.bosh p {
+    text-align: center;
+    color: white;
+    line-height: 2;
+    font-size: 22px;
+}
+
+.bosh .qwe {
+    padding: 10px 30px;
+    border-radius: 50px;
+    border: none;
+    background-color: rgb(170, 102, 102);
+
+    margin-left: 500px;
+    margin-top: 50px;
+    color: white;
+}
+
+.qwe:hover {
+    background-color: rgb(167, 70, 70);
+}
+
+.qwe1 {
+    padding: 10px 30px;
+    border-radius: 50px;
+    border: solid 3px white;
+    background-color: transparent;
+    margin-left: 20px;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.qwe1:hover {
+    background-color: wheat;
+}
+
+.kop {
+    width: 100%;
+    height: 200vh;
+    background-color: rgb(255, 255, 255);
+}
+
+.tre {
+    width: 250px;
+    height: 200px;
+    background-color: brown;
+    margin-left: 50px;
+}
+
+.tre i {
+    font-size: 60px;
+    margin-left: 60px;
+    padding-top: 40px;
+}
+
+.tre h1 {
+    font-size: 45px;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.camping {
+    width: 250px;
+    height: 200px;
+    background-color: brown;
+    margin-left: 100px;
+}
+
+.camping i {
+    font-size: 60px;
+    margin-left: 60px;
+    padding-top: 40px;
+    color: white;
+}
+
+.camping h1 {
+    font-size: 45px;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.asos {
+    display: flex;
+}
+
+.beach {
+    width: 250px;
+    height: 200px;
+    background-color: brown;
+    margin-left: 100px;
+}
+
+.beach i {
+    font-size: 60px;
+    margin-left: 60px;
+    padding-top: 40px;
+    color: white;
+}
+
+.beach h1 {
+    font-size: 45px;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.news {
+    width: 250px;
+    height: 200px;
+    background-color: brown;
+    margin-left: 100px;
+}
+
+.news i {
+    font-size: 60px;
+    margin-left: 60px;
+    padding-top: 40px;
+    color: white;
+}
+
+.news h1 {
+    font-size: 45px;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.kop h1 {
+    text-align: center;
+    padding-top: 30px;
+    font-size: 50px;
+}
+
+.kop p {
+    text-align: center;
+    font-size: 22px;
+    padding-top: 50px;
+}
+
+.kopram {
+    flex-wrap: wrap;
+
+}
+
+.acer {
+    width: 350px;
+    height: 400px;
+    background-image: url(https://assets.nicepagecdn.com/d2cc3eaa/2625193/images/3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 50px;
+    margin-top: 20px;
+    position: absolute;
+}
+
+.acer h1,
+p {
+    color: white;
+
+}
+
+.acer1 {
+    width: 350px;
+    height: 400px;
+    background-image: url(https://assets.nicepagecdn.com/d2cc3eaa/2625193/images/3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 50px;
+    margin-top: 20px;
+    position: absolute;
+}
+
+.acer1 h1,
+p {
+    color: white;
+
+}
+
+.find {
+    width: 100%;
+    height: 150vh;
+    background-color: rgb(167, 107, 69);
+}
+
+.find h1 {
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+    font-size: 60px;
+    padding-bottom: 50px;
+
+}
+
+.find p {
+    text-align: center;
+    color: white;
+    font-size: 22px;
+
+}
+
+.best {
+    width: 300px;
+    height: 300px;
+    background-image: url(https://assets.nicepagecdn.com/d2cc3eaa/2625193/images/1244.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+    margin-left: 100px;
+
+
+}
+
+.best .lake {
+    width: 300px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.44);
+}
+
+.best .lake p {
+    font-size: 20px;
+
+}
+
+.best .lake h2 {
+    color: white;
+    text-align: center;
+}
+
+.best1 {
+    width: 300px;
+    height: 300px;
+    background-image: url(https://assets.nicepagecdn.com/d2cc3eaa/2625193/images/8.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+    margin-left: 100px;
+
+
+}
+
+.best1 .lake1 {
+    width: 300px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.44);
+}
+
+.best1 .lake1 p {
+    font-size: 20px;
+
+}
+
+.best1 .lake1 h2 {
+    color: white;
+    text-align: center;
+}
+
+.redmi {
+    display: flex;
+}
+
+.best2 {
+    width: 300px;
+    height: 300px;
+    background-image: url(https://assets.nicepagecdn.com/d2cc3eaa/2625193/images/7894.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+    margin-left: 100px;
+
+
+}
+
+.best2 .lake2 {
+    width: 300px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.44);
+}
+
+.best2 .lake2 p {
+    font-size: 20px;
+
+}
+
+.best2 .lake2 h2 {
+    color: white;
+    text-align: center;
+}
+
+.apple {
+    display: flex;
+}
+
+.best3 {
+    width: 300px;
+    height: 300px;
+    background-image: url(https://assets.nicepagecdn.com/d2cc3eaa/2625193/images/Untitled-16.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+    margin-left: 100px;
+    margin-top: 20px;
+
+
+}
+
+.best3 .lake3 {
+    width: 300px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.44);
+}
+
+.best3 .lake3 p {
+    font-size: 20px;
+
+}
+
+.best3 .lake3 h2 {
+    color: white;
+    text-align: center;
+}
+
+.best4 {
+    width: 300px;
+    height: 300px;
+    background-image: url(https://assets.nicepagecdn.com/d2cc3eaa/2625193/images/Untitled-164.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+    margin-left: 100px;
+    margin-top: 20px;
+
+
+}
+
+.best4 .lake4 {
+    width: 300px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.44);
+}
+
+.best4 .lake4 p {
+    font-size: 20px;
+
+}
+
+.best4 .lake4 h2 {
+    color: white;
+    text-align: center;
+}
+
+.best5 {
+    width: 300px;
+    height: 300px;
+    background-image: url(https://assets.nicepagecdn.com/d2cc3eaa/2625193/images/79.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+    margin-left: 100px;
+    margin-top: 20px;
+
+
+}
+
+.best5 .lake {
+    width: 300px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.44);
+}
+
+.best5 .lake5 p {
+    font-size: 20px;
+
+}
+
+.best5 .lake5 h2 {
+    color: white;
+    text-align: center;
+}
+
+.katta {
+    width: 100%;
+    height: 60vh;
+    background-color: white;
+    display: flex;
+    padding-left: 5%;
+    padding-top: 50px;
+}
+
+.katta .rasm1 {
+    width: 25%;
+    height: 50vh;
+    background-image: url(./1\ rasm.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 5%;
+}
+
+.katta .rasm2 {
+    width: 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
+    background-image: url(./2\ rasm.jpg);
+    margin-left: 5%;
+}
+
+.katta .rasm3 {
+    width: 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
+    background-image: url(./3\ rasm.jpg);
+    margin-left: 5%;
+}
+
+.katta1 {
+    width: 100%;
+    height: 60vh;
+    background-color: white;
+    display: flex;
+    padding-left: 5%;
+}
+
+.katta1 .rasm4 {
+    width: 25%;
+    height: 50vh;
+    background-image: url(./3\ rasnm.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 5%;
+}
+
+.katta1 .rasm5 {
+    width: 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
+    background-image: url(./4\ rasm.jpg);
+    margin-left: 5%;
+}
+
+.katta1 .rasm6 {
+    width: 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
+    background-image: url(./6rasm.jpg);
+    margin-left: 5%;
+}
